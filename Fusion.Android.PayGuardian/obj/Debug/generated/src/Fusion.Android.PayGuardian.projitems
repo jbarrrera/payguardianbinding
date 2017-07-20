@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25;ANDROID_26</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.BuildConfig.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Device.IDeviceService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Device.Model.EmvDTO.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Device.Model.MsrDTO.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Device.Model.PinPadDTO.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Device.Rba.Ingenico_FileWrite.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Device.Unipay.IUnipayCallback.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Entity.PaymentReponseEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Entity.PaymentRequestEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Exception.ErrorCode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Exception.PayGuardianException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Interfaces.IActivityConnector.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.IPayGuardianCallback.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Model.ExtData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Model.PaymentResponse.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Model.ReceiptTagData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Pax.IInputStreamListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Pax.InputStreamReader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Pax.PaxUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.PayGuardian.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.PayGuardianStatus.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Payment.AccountInquiryResponse.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Payment.PayloadErrorResponse.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Payment.PayloadReponseMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Payment.PayloadRequestHeader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Payment.PayloadRequestMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Payment.PayloadResponse.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Service.Impl.PaymentProcessServiceImpl.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Service.IPaymentProcessService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Service.IPaymentServiceEvents.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Soap.IBridgeCommServiceEvents.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Util.ConnectionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Util.Constants.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Util.ConversionUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Util.DeviceServiceConstants.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Bpn.Payguardian.Android.Util.Log.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>

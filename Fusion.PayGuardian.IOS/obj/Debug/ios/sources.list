@@ -1,0 +1,11 @@
+obj\Debug\ios\FusionPayGuardianiOS\BPNAddress.g.cs
+obj\Debug\ios\FusionPayGuardianiOS\BPNPayment.g.cs
+obj\Debug\ios\FusionPayGuardianiOS\BPNPaymentRequest.g.cs
+obj\Debug\ios\FusionPayGuardianiOS\BPNReceipt.g.cs
+obj\Debug\ios\FusionPayGuardianiOS\BridgeCommResponse.g.cs
+obj\Debug\ios\FusionPayGuardianiOS\Constants.g.cs
+obj\Debug\ios\FusionPayGuardianiOS\PayGuardianTransaction.g.cs
+obj\Debug\ios\FusionPayGuardianiOS\RBAConnectionQueue.g.cs
+obj\Debug\ios\ObjCRuntime\Libraries.g.cs
+obj\Debug\ios\ObjCRuntime\Messaging.g.cs
+obj\Debug\ios\ObjCRuntime\Trampolines.g.cs

@@ -1,0 +1,5 @@
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayJul\bindingAndroidPayJul\bindingAndroidPayJul\bin\Debug\bindingAndroidPayJul.dll
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayJul\bindingAndroidPayJul\bindingAndroidPayJul\bin\Debug\bindingAndroidPayJul.pdb
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayJul\bindingAndroidPayJul\bindingAndroidPayJul\obj\Debug\bindingAndroidPayJul.dll
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayJul\bindingAndroidPayJul\bindingAndroidPayJul\obj\Debug\bindingAndroidPayJul.pdb
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayJul\bindingAndroidPayJul\bindingAndroidPayJul\obj\Debug\Fusion.PayGuardian.Android.csprojResolveAssemblyReference.cache

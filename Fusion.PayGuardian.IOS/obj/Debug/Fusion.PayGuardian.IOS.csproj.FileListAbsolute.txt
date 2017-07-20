@@ -1,0 +1,4 @@
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayAgo\BindingTestings\Fusion.PayGuardian.IOS\bin\Debug\Fusion.PayGuardian.IOS.dll
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayAgo\BindingTestings\Fusion.PayGuardian.IOS\bin\Debug\Fusion.PayGuardian.IOS.pdb
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayAgo\BindingTestings\Fusion.PayGuardian.IOS\obj\Debug\Fusion.PayGuardian.IOS.dll
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayAgo\BindingTestings\Fusion.PayGuardian.IOS\obj\Debug\Fusion.PayGuardian.IOS.pdb
