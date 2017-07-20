@@ -12,3 +12,4 @@ C:\Users\jbarrera\Source\Repos\bindingAndroidPayAgo\BindingTestings\BindingTesti
 C:\Users\jbarrera\Source\Repos\bindingAndroidPayAgo\BindingTestings\BindingTestings\BindingTestings\obj\Debug\BindingTestings.App.xaml.g.cs
 C:\Users\jbarrera\Source\Repos\bindingAndroidPayAgo\BindingTestings\BindingTestings\BindingTestings\obj\Debug\BindingTestings.dll
 C:\Users\jbarrera\Source\Repos\bindingAndroidPayAgo\BindingTestings\BindingTestings\BindingTestings\obj\Debug\BindingTestings.pdb
+C:\Users\jbarrera\Source\Repos\bindingAndroidPayAgo\BindingTestings\BindingTestings\BindingTestings\obj\Debug\BindingTestings.csprojResolveAssemblyReference.cache

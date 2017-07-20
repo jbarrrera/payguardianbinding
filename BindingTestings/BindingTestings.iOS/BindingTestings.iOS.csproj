@@ -149,12 +149,6 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BindingTestings\BindingTestings.csproj">
-      <Project>{41ae59c5-a740-469d-93d6-b6b8fc2624d2}</Project>
-      <Name>BindingTestings</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <NativeReference Include="Native References/libpayguard.a">
       <Kind>Static</Kind>
       <ForceLoad>False</ForceLoad>
